@@ -2,7 +2,7 @@
     <!-- Base application theme. -->
     <style name="Base.Theme.BossMarket" parent="Theme.Material3.DayNight.NoActionBar">
         <!-- Customize your light theme here. -->
-         <item name="colorPrimary">#00B8D4</item>
+        <item name="colorPrimary">#414AB0</item>
     </style>
 
     <style name="Theme.BossMarket" parent="Base.Theme.BossMarket" />
